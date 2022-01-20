@@ -19,9 +19,12 @@ Desenvolver um website para mobile semelhante ao Rappi.
 ### Demo: [Clique Aqui](https://rappi4a-carver.surge.sh)
  
 # Imagens
-<a href="https://user-images.githubusercontent.com/89935565/150389641-03ca1023-33f4-47c0-8d63-55567428c4dd.png"><img src="https://user-images.githubusercontent.com/89935565/150389641-03ca1023-33f4-47c0-8d63-55567428c4dd.png" align="left" height="420" width="430" ></a>
+  
+<a href="https://user-images.githubusercontent.com/89935565/150396573-c09a8d32-e1ef-4cba-bd6a-e7a9a118d372.png"><img src="https://user-images.githubusercontent.com/89935565/150396573-c09a8d32-e1ef-4cba-bd6a-e7a9a118d372.png" align="left" height="350" width="190" ></a>
  
- <a href="https://user-images.githubusercontent.com/89935565/150390490-11060477-ede2-41e7-b793-b6d8052f4718.png"><img src="https://user-images.githubusercontent.com/89935565/150390490-11060477-ede2-41e7-b793-b6d8052f4718.png" align="rigth" height="420" width="430" ></a>
+ <a href="https://user-images.githubusercontent.com/89935565/150396589-de1779ce-0b26-4f3b-94ad-10c663b7e359.png"><img src="https://user-images.githubusercontent.com/89935565/150396589-de1779ce-0b26-4f3b-94ad-10c663b7e359.png"  height="350" width="190" ></a>
+ 
+ <a href="https://user-images.githubusercontent.com/89935565/150396594-f6fc9db4-90bb-48c5-9d5a-43c0a4e29335.png"><img src="https://user-images.githubusercontent.com/89935565/150396594-f6fc9db4-90bb-48c5-9d5a-43c0a4e29335.png"  height="350" width="190" ></a>
  
  ## Tecnologias e bibliotecas utilizadas:
 <li> React JS 17.0
